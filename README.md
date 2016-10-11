@@ -16,5 +16,5 @@ This script
  3. Copy and put run_analysis.R file in UCI HAR Dataset directory
  4. Run source("run_analysis.R"). This will generate a new file tiny_data.txt in UCI HAR Dataset directory
  
- ## Dependencies
- run_analysis.R file will help you to install the dependencies automatically. It depends on reshape2 and data.table
+## Dependencies
+run_analysis.R file will help you to install the dependencies automatically. It depends on reshape2 and data.table
